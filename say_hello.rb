@@ -4,5 +4,5 @@ def say_hello("Kent Beck")
 end
 
 def say_hello()
-  puts "Hello Ruby Programmer!"
+  puts "Hello r!"
 end
